@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class UC7_OOPS_Banner {
+public class UC8_OOPS_Banner {
 
     // Static Inner Class to Store Character Pattern
     static class CharacterPatternMap {
